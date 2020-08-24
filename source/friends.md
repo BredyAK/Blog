@@ -2,7 +2,7 @@
 title: 友情链接
 date: 2020/8/24 19:57:25
 layout: py
-permalink: PY.html
+permalink: friends.html
 ---
 
 ## 友情链接
