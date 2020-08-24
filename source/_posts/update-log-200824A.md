@@ -1,6 +1,7 @@
 ---
 title: 更新日志
 date: 2020-08-24 18:35:36
+cover:
 categories: 
 - 站点维护
 tags:
