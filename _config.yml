@@ -34,10 +34,10 @@ menu:
     - /about-me.html
     - icon-me
   时间线:
-    - /archives/
+    - /archives
     - icon-time
   音乐:
-    - /music/
+    - /music
     - icon-archive
   我的朋友们:
     - /friends.html
