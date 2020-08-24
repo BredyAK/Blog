@@ -2,6 +2,8 @@
 title: 更新日志
 date: 2020-08-24 18:35:36
 cover: https://shop.io.mi-img.com/app/shop/img?id=shop_153632ed930a45dafa660364d2391421.png
+coverWidth: 1280
+coverHeight: 860
 categories:
 - 站点维护
 tags:
