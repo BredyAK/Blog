@@ -1,5 +1,5 @@
 ---
-title: 小记
+title: 更新日志
 date: 2020-08-24 18:35:36
 categories: 
 - 站点维护
