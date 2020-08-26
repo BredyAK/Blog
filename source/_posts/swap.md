@@ -7,7 +7,7 @@ coverHeight: 650
 categories:
 - 创作
 tags:
-- 个人作品
+- 原创
 ---
 
 GitHub：[https://github.com/BredyAK/SWAP](https://github.com/BredyAK/SWAP)
